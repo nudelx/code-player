@@ -21,6 +21,10 @@
             {
               "label": "Reset",
               "command": "code-player:reset"
+            },
+            {
+              "label": "Continue",
+              "command": "code-player:continue"
             }
           ]
         }
