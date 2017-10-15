@@ -17,6 +17,10 @@
             {
               "label": "Toggle",
               "command": "code-player:toggle"
+            },
+            {
+              "label": "Reset",
+              "command": "code-player:reset"
             }
           ]
         }
